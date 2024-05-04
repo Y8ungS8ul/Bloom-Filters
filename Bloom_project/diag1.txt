@@ -1,0 +1,3 @@
+Insert time of DBF: 72
+Insert time of Ytrie: 343
+Insert time of List: 0

@@ -1,0 +1,6 @@
+﻿  Bloom_project.cpp
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\ProgramMenu.h(2,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  main.cpp
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\ProgramMenu.h(2,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  md5.cpp
+  sha256.cpp

@@ -1,0 +1,3 @@
+Find time of DBF: 10
+Fins time of Ytrie: 11
+Find time of List: 596

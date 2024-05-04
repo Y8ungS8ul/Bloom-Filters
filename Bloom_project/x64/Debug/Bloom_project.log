@@ -1,0 +1,456 @@
+﻿  Bloom_project.cpp
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(60,36): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(64,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(400,85): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(400,67): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(553,85): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(582,85): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(677,85): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(785,58): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(797,85): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(797,67): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(990,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(994,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1081,82): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1081,61): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1325,55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1409,61): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1411,65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1411,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1420,97): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1448,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1448,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1466,55): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1606,61): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1608,101): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1608,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1617,97): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1649,55): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1728,105): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1728,70): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1789,27): warning C4244: инициализация: преобразование "size_t" в "double", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1854,27): warning C4244: инициализация: преобразование "size_t" в "double", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1895,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1916,82): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1916,61): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2179,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2262,61): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2264,65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2264,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2273,97): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2301,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2301,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2319,55): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2459,61): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2461,101): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2461,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2470,97): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2502,55): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2573,82): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2573,61): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2843,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2934,61): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2936,65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2936,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2945,97): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2973,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2973,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(2991,55): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(3131,61): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(3133,101): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(3133,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(3142,97): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(3174,55): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(3246,82): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(3246,61): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(3456,26): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(3526,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(3614,61): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(3616,65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(3616,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(3625,97): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(3653,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(3653,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(3671,55): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(3811,61): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(3813,101): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(3813,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(3822,97): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(3854,55): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4024,121): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4024,82): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4279,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4328,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4352,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4366,61): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4370,65): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4370,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4381,97): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4404,52): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4455,85): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4455,67): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4642,65): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4660,68): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4660,61): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4661,68): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4661,61): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4662,68): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4662,61): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4668,71): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4668,64): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4669,71): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4669,64): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4670,71): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4670,64): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4675,71): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4675,64): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4676,71): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4676,64): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4677,71): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4677,64): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4997,17): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(4998,18): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(5005,61): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(5010,47): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(5156,30): warning C4244: инициализация: преобразование "size_t" в "double", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(5322,39): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(5401,32): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(5506,29): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(5507,30): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(5591,22): warning C4244: инициализация: преобразование "size_t" в "double", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(5718,22): warning C4244: инициализация: преобразование "size_t" в "double", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(5880,48): warning C4244: =: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(5895,29): warning C4244: инициализация: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(5918,29): warning C4244: инициализация: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(5932,31): warning C4244: инициализация: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(5950,32): warning C4244: инициализация: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(5962,30): warning C4244: инициализация: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(6094,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(6284,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(6288,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(6343,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(242,16): warning C4267: инициализация: преобразование из "size_t" в "_Ty1"; возможна потеря данных
+          with
+          [
+              _Ty1=const int
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1896,30): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<const int,int>::pair<size_t&,int&,0>(_Other1,_Other2) noexcept"
+          with
+          [
+              _Other1=size_t &,
+              _Other2=int &
+          ]
+C:\Users\yspcm\source\repos\Bloom_project\Bloom_project\Bloom_project.cpp(1896,29): message : см. первую ссылку на "std::pair<const int,int>::pair" в "calculateCollisions_size"
+  Bloom_project.vcxproj -> C:\Users\yspcm\source\repos\Bloom_project\x64\Debug\Bloom_project.exe
