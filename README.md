@@ -8,3 +8,4 @@
 - Cuckoo-фильтра (не вероятностная структура данных)
 - Динамический фильтр Блума с HyperLogLog
 
+! [картинка] (https://yandex.ru/images/search?from=tabbar&img_url=https%3A%2F%2Fi.imgur.com%2FAA93eGK.png&lr=2&pos=11&rpt=simage&text=фильтр%20блума)
