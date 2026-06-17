@@ -1,3 +1,0 @@
-Size of DBF: 144
-Size of Ytrie: 80
-Size of List: 8

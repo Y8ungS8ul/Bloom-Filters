@@ -1,3 +1,0 @@
-Find time of DBF: 0
-Find time of Ytrie: 0
-Find time of List: 0
