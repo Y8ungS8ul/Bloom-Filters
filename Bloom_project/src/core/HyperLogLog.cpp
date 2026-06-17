@@ -1,6 +1,10 @@
 #include "HyperLogLog.hpp"
 #include <functional>
 
+/**
+* @details Реализация указанной функциональности для HyperlLogLog.hpp
+*/
+
 HyperLogLog::HyperLogLog(int p) 
     : p(p), m(1 << p), registers(m, 0) {}
 

@@ -85,7 +85,31 @@ make
 
 mkdir build && cd build
 cmake .. -G "Visual Studio 16 2019"
-# Открыть сгенерированный Bloom_project.sln
+```
 
+# Краткая схема, описывающая работу фильтра блума и битовых структур данных
 
 ![картинка](https://i.imgur.com/tObEz5f.png)
+
+# Демонстрация работы ПО:
+
+
+Консольное меню:
+
+![screen](/Bloom_project/image/menu_screen1.png)
+
+Интерактивное меню на sfml:
+
+![sfml](/Bloom_project/image/sfml_menu.png)
+
+Интерактивное меню на sfml для выбранной структуры:
+
+![sfml](/Bloom_project/image/sfml_menu_bloom.png)
+
+Гистограммы сравнения операций вставки и записи:
+
+![гистограммы сравнения с YFastT-1](/Bloom_project/image/mplotlib_1.png)
+
+![гистограммы сравнения с YFastT-2](/Bloom_project/image/mplotlib_2.png)
+
+![гистограммы сравнения с YFastT-3](/Bloom_project/image/mplotlib_3.png)

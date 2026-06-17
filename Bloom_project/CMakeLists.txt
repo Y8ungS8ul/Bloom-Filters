@@ -66,6 +66,10 @@ add_custom_command(TARGET ${PROJECT_NAME} POST_BUILD
     COMMAND ${CMAKE_COMMAND} -E copy_if_different
         ${CMAKE_CURRENT_SOURCE_DIR}/resources/words.txt
         $<TARGET_FILE_DIR:${PROJECT_NAME}>/words.txt
+
+    COMMAND ${CMAKE_COMMAND} -E copy_if_different
+        ${CMAKE_CURRENT_SOURCE_DIR}/resources/data.txt
+        $<TARGET_FILE_DIR:${PROJECT_NAME}>/data.txt
     
     # Копируем SQL файлы из resources
     COMMAND ${CMAKE_COMMAND} -E copy_if_different
